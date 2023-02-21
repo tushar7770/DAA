@@ -1,0 +1,8 @@
+*.pdf
+*.pages
+.vscode
+Q1daaendsem.cpp
+Q2daaendsem.cpp
+Q3daaendsem.cpp
+Q4daaendsem.cpp
+.DS_Store
